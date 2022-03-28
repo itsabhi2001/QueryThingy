@@ -8,95 +8,21 @@ using namespace std;
 #include "maxHeap.hpp"
 #include "Utility.hpp"
 
+
     maxHeap::maxHeap(){}
 
 
     void maxHeap::findMax(string filename, string modifier, int n, int year)
     {
-        
-        ifstream input_file;
-        input_file.open(filename);
+        Utility ut;
         SOC *data = (SOC*)malloc(NUM_OCC*sizeof(SOC));
-        for(int i = 0; i < 5; i++)
-        {
-            string buffer;
-            getline(input_file, buffer);
-        }
-
-
-        int index = 0;
-        string line,temp;
-        while(!input_file.eof())
-        {
-            string imput;
-            string element;
-            std::stringstream ss;
-            getline(input_file,imput);
-            ss << imput;
-            for(int i = 0; i < 5; i++){
-                if(ss.peek() == '"')
-                {
-                    ss >> std::quoted(element);
-                    string comma;
-                    getline(ss, comma, ',');
-                }
-                else
-                {
-                    getline(ss, element, ',');
-                }
-                
-                switch (i) {
-                    case 0:
-                        strcpy(data[index].occupation, element.c_str());
-                        break;
-                    case 1:
-                        strcpy(data[index].SOC_code, element.c_str());
-                        break;
-                    case 2:
-                        for (int i = 0, len = element.size(); i < len; i++)
-                        {
-                            if (ispunct(element[i]))
-                            {
-                                element.erase(i--, 1);
-                                len = element.size();
-                            }
-                        }
-                        data[index].total = stoi(element);
-                        break;
-                    case 3:
-                        for (int i = 0, len = element.size(); i < len; i++)
-                        {
-                            if (ispunct(element[i]))
-                            {
-                                element.erase(i--, 1);
-                                len = element.size();
-                            }
-                        }
-                        data[index].female = stoi(element);
-                        break;
-                    case 4:
-                        for (int i = 0, len = element.size(); i < len; i++)
-                        {
-                            if (ispunct(element[i]))
-                            {
-                                element.erase(i--, 1);
-                                len = element.size();
-                            }
-                        }
-                        data[index].male = stoi(element);
-                        break;
-                }
-            }
-            
-            index++;
-            
-        }
+        ut.OccupationToSOC(filename, data);
         
         int size = NUM_OCC;
-        Utility ut;
+        
         if(modifier == "total"){
 
-            std::cout << "\n" << "Query: find max total " << n << "\n\n";
+            std::cout << "Query: find max total " << n << "\n\n";
             std::cout << "Top " << n << " occupations in " << year << " for total workers:\n";
 
             buildHeap(data, NUM_OCC, 0);
@@ -107,7 +33,7 @@ using namespace std;
         }
         if(modifier == "female"){
 
-            std::cout << "\n" << "Query: find max women " << n << "\n\n";
+            std::cout << "Query: find max women " << n << "\n\n";
             std::cout << "Top " << n << " occupations in " << year << " for female workers:\n";
 
             buildHeap(data, NUM_OCC, 1);
@@ -118,7 +44,7 @@ using namespace std;
         }
         if(modifier == "male"){
 
-            std::cout << "\n" << "Query: find max men " << n << "\n\n";
+            std::cout << "Query: find max men " << n << "\n\n";
             std::cout << "Top " << n << " occupations in " << year << " for male workers:\n";
 
             buildHeap(data, NUM_OCC, 2);

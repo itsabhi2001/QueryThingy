@@ -1,0 +1,745 @@
+|__Chief executives
+    |--Advertising and promotions managers
+    |   |--Administrative services managers
+    |   |   |--Accountants and auditors
+    |   |   |   |__Actuaries
+    |   |   |       |--Actors
+    |   |__Agents and business managers of artists, performers, and athletes
+    |       |--Aerospace engineers
+    |       |   |--Advertising sales agents
+    |       |__Appraisers and assessors of real estate
+    |           |--Agricultural engineers
+    |           |   |--Agricultural and food scientists
+    |           |   |   |--Agricultural and food science technicians
+    |           |   |__Announcers
+    |           |       |--Animal control workers
+    |           |       |   |--Agricultural inspectors
+    |           |       |   |   |__Animal breeders
+    |           |       |   |       |--Aircraft mechanics and service technicians
+    |           |       |   |       |   |--Air traffic controllers and airfield operations specialists
+    |           |       |   |       |   |__Aircraft structure, surfaces, rigging, and systems assemblers
+    |           |       |   |       |       |--Aircraft pilots and flight engineers
+    |           |       |   |       |       |__Ambulance drivers and attendants, except emergency medical technicians
+    |           |       |   |__Animal trainers
+    |           |__Budget analysts
+    |               |--Architects, except naval
+    |               |   |__Biomedical engineers
+    |               |       |--Biological scientists
+    |               |       |   |--Astronomers and physicists
+    |               |       |   |   |--Archivists, curators, and museum technicians
+    |               |       |   |   |   |__Artists and related workers
+    |               |       |   |   |__Atmospheric and space scientists
+    |               |       |   |       |--Athletes, coaches, umpires, and related workers
+    |               |       |   |       |__Audiologists
+    |               |       |   |           |__Bailiffs, correctional officers, and jailers
+    |               |       |   |               |--Baggage porters, bellhops, and concierges
+    |               |       |   |               |   |--Avionics technicians
+    |               |       |   |               |   |   |--Automotive body and related repairers
+    |               |       |   |               |   |   |   |__Automotive glass installers and repairers
+    |               |       |   |               |   |   |       |__Automotive service technicians and mechanics
+    |               |       |   |               |__Bartenders
+    |               |       |   |                   |--Barbers
+    |               |       |   |                   |   |--Bakers
+    |               |       |   |                   |__Bill and account collectors
+    |               |       |   |                       |__Billing and posting clerks and machine operators
+    |               |       |   |__Biological technicians
+    |               |       |__Broadcast and sound engineering technicians and radio operators
+    |               |           |--Bookkeeping, accounting, and auditing clerks
+    |               |           |   |--Boilermakers
+    |               |           |   |   |__Bookbinders and bindery workers
+    |               |           |   |__Brickmasons, blockmasons, and stonemasons
+    |               |           |       |__Bridge and lock tenders
+    |               |           |__Brokerage clerks
+    |               |__Chemical engineers
+    |                   |--Chefs and head cooks
+    |                   |   |--Cashiers
+    |                   |   |   |--Cargo and freight agents
+    |                   |   |   |   |--Bus and truck mechanics and diesel engine specialists
+    |                   |   |   |   |   |__Butchers and other meat, poultry, and fish processing workers
+    |                   |   |   |   |       |--Bus drivers
+    |                   |   |   |   |       |__Cabinetmakers and bench carpenters
+    |                   |   |   |   |__Carpenters
+    |                   |   |   |       |__Carpet, floor, and tile installers and finishers
+    |                   |   |   |__Cement masons, concrete finishers, and terrazzo workers
+    |                   |   |       |__Cementing and gluing machine operators and tenders
+    |                   |__Chemists and materials scientists
+    |                       |--Chemical technicians
+    |                       |   |--Chemical processing machine setters, operators, and tenders
+    |__General and operations managers
+        |--Computer and information systems managers
+        |   |--Claims adjusters, appraisers, examiners, and investigators
+        |   |   |--Civil engineers
+        |   |   |   |--Chiropractors
+        |   |   |   |   |--Child care workers
+        |   |   |__Compliance officers, except agriculture, construction, health and safety, and transportation
+        |   |       |--Clergy
+        |   |       |   |--Cleaning, washing, and metal pickling equipment operators and tenders
+        |   |       |   |   |--Cleaners of vehicles and equipment
+        |   |       |   |__Clinical laboratory technologists and technicians
+        |   |       |       |__Combined food preparation and serving workers, including fast food
+        |   |       |           |--Coin, vending, and amusement machine servicers and repairers
+        |   |       |           |__Communications equipment operators, all other
+        |   |       |               |--Commercial divers
+        |   |__Financial managers
+        |       |--Farm, ranch, and other agricultural managers
+        |       |   |--Construction managers
+        |       |   |   |--Computer scientists and systems analysts
+        |       |   |   |   |--Computer programmers
+        |       |   |   |   |   |--Computer hardware engineers
+        |       |   |   |   |   |   |--Computer control programmers and operators
+        |       |   |   |   |   |   |__Computer operators
+        |       |   |   |   |__Computer software engineers
+        |       |   |   |       |__Computer support specialists
+        |       |   |   |           |__Conservation scientists and foresters
+        |       |   |   |               |--Computer, automated teller, and office machine repairers
+        |       |   |   |               |__Construction laborers
+        |       |   |   |                   |--Construction and building inspectors
+        |       |   |   |__Education administrators
+        |       |   |       |--Cost estimators
+        |       |   |       |   |--Cooks
+        |       |   |       |   |   |--Control and valve installers and repairers
+        |       |   |       |   |   |   |__Conveyor operators and tenders
+        |       |   |       |   |   |__Correspondence clerks
+        |       |   |       |   |       |--Cooling and freezing equipment operators and tenders
+        |       |   |       |   |__Credit analysts
+        |       |   |       |       |--Counselors
+        |       |   |       |       |   |__Counter attendants, cafeteria, food concession, and coffee shop
+        |       |   |       |       |       |--Counter and rental clerks
+        |       |   |       |       |       |__Court, municipal, and license clerks
+        |       |   |       |       |           |--Couriers and messengers
+        |       |   |       |       |           |__Crane and Tower Operators
+        |       |   |       |       |__Database administrators
+        |       |   |       |           |--Dancers and choreographers
+        |       |   |       |           |   |--Crossing guards
+        |       |   |       |           |   |   |--Credit authorizers, checkers, and clerks
+        |       |   |       |           |   |   |__Customer service representatives
+        |       |   |       |           |   |       |--Crushing, grinding, polishing, mixing, and blending workers
+        |       |   |       |           |   |       |__Cutting, punching, and press machine setters, operators, and tenders, metal and plastic
+        |       |   |       |           |   |           |--Cutting workers
+        |       |   |       |           |   |__Data entry keyers
+        |       |   |       |           |__Drafters
+        |       |   |       |               |--Directors, religious activities and education
+        |       |   |       |               |   |--Designers
+        |       |   |       |               |   |   |--Dentists
+        |       |   |       |               |   |   |   |--Dental hygienists
+        |       |   |       |               |   |   |   |   |--Dental assistants
+        |       |   |       |               |   |   |   |__Derrick, rotary drill, and service unit operators, oil, gas, and mining
+        |       |   |       |               |   |   |__Dietitians and nutritionists
+        |       |   |       |               |   |       |--Diagnostic related technologists and technicians
+        |       |   |       |               |   |       |   |--Detectives and criminal investigators
+        |       |   |       |               |   |       |   |   |--Desktop publishers
+        |       |   |       |               |   |       |__Dining room and cafeteria attendants and bartender helpers
+        |       |   |       |               |   |__Dishwashers
+        |       |   |       |               |       |__Door-to-door sales workers, news and street vendors, and related workers
+        |       |   |       |               |           |--Dispatchers
+        |       |   |       |               |__Economists
+        |       |   |       |                   |--Drywall installers, ceiling tile installers, and tapers
+        |       |   |       |                   |   |--Drilling and boring machine tool setters, operators, and tenders, metal and plastic
+        |       |   |       |                   |   |   |--Dredge, excavating, and loading machine operators
+        |       |   |       |                   |   |   |__Driver/sales workers and truck drivers
+        |       |   |       |                   |   |__Earth drillers, except oil and gas
+        |       |   |       |                   |__Editors
+        |       |   |       |__Engineering managers
+        |       |   |           |--Electrical and electronics engineers
+        |       |   |           |   |--Electric motor, power tool, and related repairers
+        |       |   |           |   |__Elementary and middle school teachers
+        |       |   |           |       |--Electricians
+        |       |   |           |       |   |--Electrical and electronics installers and repairers, transportation equipment
+        |       |   |           |       |   |   |__Electrical and electronics repairers, industrial and utility
+        |       |   |           |       |   |       |__Electrical power-line installers and repairers
+        |       |   |           |       |   |           |__Electrical, electronics, and electromechanical assemblers
+        |       |   |           |       |   |__Electronic equipment installers and repairers, motor vehicles
+        |       |   |           |       |       |__Electronic home entertainment equipment installers and repairers
+        |       |   |           |       |__Emergency medical technicians and paramedics
+        |       |   |           |           |--Eligibility interviewers, government programs
+        |       |   |           |           |   |--Elevator installers and repairers
+        |       |   |           |           |__Engine and other machine assemblers
+        |       |   |           |__Environmental engineers
+        |       |   |               |--Engineers, all other
+        |       |   |               |   |--Engineering technicians, except drafters
+        |       |   |               |   |__Entertainers and performers, sports and related workers, all other
+        |       |   |               |__Environmental scientists and geoscientists
+        |       |   |                   |__Explosives workers, ordnance handling experts, and blasters
+        |       |   |                       |--Etchers and engravers
+        |       |   |                       |__Extruding and drawing machine setters, operators, and tenders, metal and plastic
+        |       |   |                           |__Extruding and forming machine setters, operators, and tenders, synthetic and glass fibers
+        |       |   |                               |__Fabric and apparel patternmakers
+        |       |   |                                   |--Extruding, forming, pressing, and compacting machine setters, operators, and  tenders
+        |       |   |__Farmers and ranchers
+        |       |       |__Financial analysts
+        |       |           |--File clerks
+        |       |           |   |--Fence erectors
+        |       |           |__Financial examiners
+        |       |__Food service managers
+        |           |--Financial specialists, all other
+        |           |   |__First-line supervisors/managers of correctional officers
+        |           |       |--Fire fighters
+        |           |       |   |__Fire inspectors
+        |           |       |       |__First-line supervisors/managers of construction trades and extraction workers
+        |           |       |__First-line supervisors/managers of police and detectives
+        |           |           |--First-line supervisors/managers of fire fighting and prevention workers
+        |           |           |   |--First-line supervisors/managers of farming, fishing, and forestry workers
+        |           |           |   |__First-line supervisors/managers of food preparation and serving workers
+        |           |           |       |__First-line supervisors/managers of housekeeping and janitorial workers
+        |           |           |           |--First-line supervisors/managers of gaming workers
+        |           |           |           |__First-line supervisors/managers of landscaping, lawn service, and groundskeeping workers
+        |           |           |               |__First-line supervisors/managers of personal service workers
+        |           |           |                   |--First-line supervisors/managers of non-retail sales workers
+        |           |           |                   |   |--First-line supervisors/managers of mechanics, installers, and repairers
+        |           |           |                   |   |__First-line supervisors/managers of office and administrative support workers
+        |           |           |__Fish and game wardens
+        |           |               |--First-line supervisors/managers of retail sales workers
+        |           |               |   |--First-line supervisors/managers of production and operating workers
+        |           |               |__Food preparation workers
+        |           |                   |--Food preparation and serving related workers, all other
+        |           |                   |   |--Fishers and related fishing workers
+        |           |                   |   |   |__Food and tobacco roasting, baking, and drying machine operators and tenders
+        |           |                   |   |       |__Food batchmakers
+        |           |                   |   |           |__Food cooking machine operators and tenders
+        |           |                   |__Food servers, nonrestaurant
+        |           |__Funeral directors
+        |               |--Forest and conservation workers
+        |               |   |__Forging machine setters, operators, and tenders, metal and plastic
+        |               |__Gaming managers
+        |                   |--Funeral service workers
+        |                   |   |__Gaming cage workers
+        |                   |       |--Furniture finishers
+        |                   |       |   |--Furnace, kiln, oven, drier, and kettle operators and tenders
+        |                   |__Gaming services workers
+        |__Legislators
+            |--Human resources managers
+            |   |--Geological and petroleum technicians
+            |   |   |__Health diagnosing and treating practitioners, all other
+            |   |       |--Health diagnosing and treating practitioner support technicians
+            |   |       |   |--Grounds maintenance workers
+            |   |       |   |   |--Graders and sorters, agricultural products
+            |   |       |   |   |   |--Glaziers
+            |   |       |   |   |   |__Grinding, lapping, polishing, and buffing machine tool setters, operators, and tenders, metal and plastic
+            |   |       |   |   |__Hairdressers, hairstylists, and cosmetologists
+            |   |       |   |       |__Hazardous materials removal workers
+            |   |       |__Hosts and hostesses, restaurant, lounge, and coffee shop
+            |   |           |--Helpers, construction trades
+            |   |           |   |--Heavy vehicle and mobile equipment service technicians and mechanics
+            |   |           |   |   |--Heating, air conditioning, and refrigeration mechanics and installers
+            |   |           |   |   |   |--Heat treating equipment setters, operators, and tenders, metal and plastic
+            |   |           |   |__Highway maintenance workers
+            |   |           |       |--Helpers, extraction workers
+            |   |           |       |   |__Helpers, installation, maintenance, and repair workers
+            |   |           |       |       |__Helpers, production workers
+            |   |           |       |__Home appliance repairers
+            |   |           |           |--Hoist and winch operators
+            |   |           |__Hotel, motel, and resort desk clerks
+            |   |               |__Human resources assistants, except payroll and timekeeping
+            |   |__Industrial production managers
+            |       |--Human resources, training, and labor relations specialists
+            |       |   |__Industrial engineers, including health and safety
+            |       |       |--Hunters and trappers
+            |       |       |   |__Industrial and refractory machinery mechanics
+            |       |__Insurance underwriters
+            |           |--Insurance sales agents
+            |           |   |--Information and record clerks, all other
+            |           |   |   |--Industrial truck and tractor operators
+            |           |   |   |__Insurance claims and policy processing clerks
+            |           |   |       |--Insulation workers
+            |           |   |       |   |--Inspectors, testers, sorters, samplers, and weighers
+            |           |__Lawyers
+            |               |--Judges, magistrates, and other judicial workers
+            |               |   |--Janitors and building cleaners
+            |               |   |   |--Interviewers, except eligibility and loan
+            |               |   |   |__Job printers
+            |               |   |       |--Jewelers and precious stone and metal workers
+            |               |   |__Lathe and turning machine tool setters, operators, and tenders, metal and plastic
+            |               |       |--Laborers and freight, stock, and material movers, hand
+            |               |       |__Laundry and dry-cleaning workers
+            |               |__Lay-out workers, metal and plastic
+            |__Marketing and sales managers
+                |--Lodging managers
+                |   |--Loan counselors and officers
+                |   |   |--Librarians
+                |   |   |   |__Library technicians
+                |   |   |       |--Library assistants, clerical
+                |   |   |       |__Licensed practical and licensed vocational nurses
+                |   |   |           |__Lifeguards and other protective service workers
+                |   |   |__Loan interviewers and clerks
+                |   |       |__Locksmiths and safe repairers
+                |   |           |__Locomotive engineers and operators
+                |   |__Managers, all other
+                |       |--Logisticians
+                |       |   |--Logging workers
+                |       |   |__Management analysts
+                |       |       |--Maids and housekeeping cleaners
+                |       |       |   |--Machinists
+                |       |       |   |   |--Machine feeders and offbearers
+                |       |       |   |__Mail clerks and mail machine operators, except postal service
+                |       |       |       |__Maintenance and repair workers, general
+                |       |       |           |__Maintenance workers, machinery
+                |       |__Marine engineers and naval architects
+                |           |--Manufactured building and mobile home installers
+                |           |__Market and survey researchers
+                |__Public relations managers
+                    |--Medical and health services managers
+                    |   |--Mathematicians
+                    |   |   |--Materials engineers
+                    |   |   |   |--Massage therapists
+                    |   |   |   |   |__Material moving workers, all other
+                    |   |   |__Mechanical engineers
+                    |   |       |__Media and communication equipment workers, all other
+                    |   |__Natural sciences managers
+                    |       |--Meeting and convention planners
+                    |       |   |--Medical scientists
+                    |       |   |   |--Medical records and health information technicians
+                    |       |   |   |   |--Medical assistants and other healthcare support occupations
+                    |       |   |   |__Medical, dental, and ophthalmic laboratory technicians
+                    |       |   |__Miscellaneous mathematical science occupations
+                    |       |       |--Mining and geological engineers, including mining safety engineers
+                    |       |       |   |--Meter readers, utilities
+                    |       |       |   |   |--Metal furnace and kiln operators and tenders
+                    |       |       |   |   |   |__Metalworkers and plastic workers, all other
+                    |       |       |   |   |__Millwrights
+                    |       |       |   |       |--Milling and planing machine setters, operators, and tenders, metal and plastic
+                    |       |       |   |__Miscellaneous community and social service specialists
+                    |       |       |       |--Miscellaneous agricultural workers
+                    |       |       |       |   |--Mining machine operators
+                    |       |       |       |   |__Miscellaneous assemblers and fabricators
+                    |       |       |       |__Miscellaneous legal support workers
+                    |       |       |           |--Miscellaneous health technologists and technicians
+                    |       |       |           |   |--Miscellaneous entertainment attendants and related workers
+                    |       |       |           |   |   |--Miscellaneous construction and related workers
+                    |       |       |__Miscellaneous social scientists and related workers
+                    |       |           |--Miscellaneous media and communication workers
+                    |       |           |   |__Miscellaneous personal appearance workers
+                    |       |           |       |__Miscellaneous plant and system operators
+                    |       |           |__Musicians, singers, and related workers
+                    |       |               |--Motion picture projectionists
+                    |       |               |   |--Models, demonstrators, and product promoters
+                    |       |               |   |   |--Miscellaneous vehicle and mobile equipment mechanics, installers, and repairers
+                    |       |               |   |   |   |__Model makers and patternmakers, metal and plastic
+                    |       |               |   |   |       |__Model makers and patternmakers, wood
+                    |       |               |   |   |__Molders and molding machine setters, operators, and tenders, metal and plastic
+                    |       |               |   |       |__Molders, shapers, and casters, except metal and plastic
+                    |       |               |   |__Multiple machine tool setters, operators, and tenders, metal and plastic
+                    |       |               |       |--Motor vehicle operators, all other
+                    |       |__Postmasters and mail superintendents
+                    |           |--Other business operations specialists
+                    |           |   |--Network and computer systems administrators
+                    |           |   |   |__Network systems and data communications analysts
+                    |           |   |       |__Operations research analysts
+                    |           |   |           |--Nuclear engineers
+                    |           |   |           |   |--News analysts, reporters and correspondents
+                    |           |   |           |   |   |--New accounts clerks
+                    |           |   |           |   |   |__Nonfarm animal caretakers
+                    |           |   |           |   |__Nuclear technicians
+                    |           |   |           |       |__Occupational therapists
+                    |           |   |           |           |--Nursing, psychiatric, and home health aides
+                    |           |   |           |           |   |__Occupational therapist assistants and aides
+                    |           |   |           |           |__Office clerks, general
+                    |           |   |           |               |--Office and administrative support workers, all other
+                    |           |   |           |               |__Office machine operators, except computer
+                    |           |   |           |                   |__Operating engineers and other construction equipment operators
+                    |           |   |           |__Optometrists
+                    |           |   |               |--Opticians, dispensing
+                    |           |   |               |__Order clerks
+                    |           |   |__Personal financial advisors
+                    |           |       |--Other life, physical, and social science technicians
+                    |           |       |   |--Other education, training, and library workers
+                    |           |       |   |   |__Other healthcare practitioners and technical occupations
+                    |           |       |   |       |--Other extraction workers
+                    |           |       |   |       |__Other installation, maintenance, and repair workers
+                    |           |       |   |__Paralegals and legal assistants
+                    |           |       |       |--Other teachers and instructors
+                    |           |       |       |   |__Painters, construction and maintenance
+                    |           |       |       |       |--Packaging and filling machine operators and tenders
+                    |           |       |       |       |   |--Other transportation workers
+                    |           |       |       |       |   |__Packers and packagers, hand
+                    |           |       |       |       |__Paperhangers
+                    |           |       |       |           |--Painting workers
+                    |           |       |       |           |   |__Paper goods machine setters, operators, and tenders
+                    |           |       |       |__Parking enforcement workers
+                    |           |       |           |__Personal and home care aides
+                    |           |       |               |--Parts salespersons
+                    |           |       |               |   |--Parking lot attendants
+                    |           |       |               |   |__Payroll and timekeeping clerks
+                    |           |       |               |       |--Paving, surfacing, and tamping equipment operators
+                    |           |       |               |__Personal care and service workers, all other
+                    |           |       |__Petroleum engineers
+                    |           |           |--Pest control workers
+                    |           |           |__Physical scientists, all other
+                    |           |               |--Photographers
+                    |           |               |   |--Pharmacists
+                    |           |               |   |__Photographic process workers and processing machine operators
+                    |           |               |__Physicians and surgeons
+                    |           |                   |--Physician assistants
+                    |           |                   |   |--Physical therapists
+                    |           |                   |   |   |--Physical therapist assistants and aides
+                    |           |                   |__Podiatrists
+                    |           |                       |--Pile-driver operators
+                    |           |                       |   |__Pipelayers, plumbers, pipefitters, and steamfitters
+                    |           |                       |       |__Plasterers and stucco masons
+                    |           |                       |           |__Plating and coating machine setters, operators, and tenders, metal and plastic
+                    |           |                       |__Police and sheriff's patrol officers
+                    |           |                           |__Postal service clerks
+                    |           |                               |__Postal service mail carriers
+                    |           |                                   |__Postal service mail sorters, processors, and processing machine operators
+                    |           |__Property, real estate, and community association managers
+                    |               |--Postsecondary teachers
+                    |               |   |__Preschool and kindergarten teachers
+                    |               |       |--Precision instrument and equipment repairers
+                    |               |       |   |--Power plant operators, distributors, and dispatchers
+                    |               |       |   |__Prepress technicians and workers
+                    |               |       |__Producers and directors
+                    |               |           |--Private detectives and investigators
+                    |               |           |   |--Printing machine operators
+                    |               |           |   |   |--Pressers, textile, garment, and related materials
+                    |               |           |   |__Procurement clerks
+                    |               |           |__Production, planning, and expediting clerks
+                    |               |               |--Production workers, all other
+                    |               |               |__Proofreaders and copy markers
+                    |               |__Psychologists
+                    |__Purchasing managers
+                        |--Purchasing agents and buyers, farm products
+                        |   |--Public relations specialists
+                        |   |   |__Pumping station operators
+                        |   |__Purchasing agents, except wholesale, retail, and farm products
+                        |__Transportation, storage, and distribution managers
+                            |--Social and community service managers
+                            |   |--Religious workers, all other
+                            |   |   |--Registered nurses
+                            |   |   |   |--Radiation therapists
+                            |   |   |   |   |__Recreational therapists
+                            |   |   |   |       |--Recreation and fitness workers
+                            |   |   |   |       |   |--Real estate brokers and sales agents
+                            |   |   |   |       |   |   |--Rail-track laying and maintenance equipment operators
+                            |   |   |   |       |   |   |   |--Radio and telecommunications equipment installers and repairers
+                            |   |   |   |       |   |   |   |__Railroad brake, signal, and switch operators
+                            |   |   |   |       |   |   |       |__Railroad conductors and yardmasters
+                            |   |   |   |       |   |   |__Receptionists and information clerks
+                            |   |   |   |       |__Refuse and recyclable material collectors
+                            |   |   |   |__Reinforcing iron and rebar workers
+                            |   |   |__Secondary school teachers
+                            |   |       |--Respiratory therapists
+                            |   |       |   |--Residential advisors
+                            |   |       |   |   |--Reservation and transportation ticket agents and travel clerks
+                            |   |       |   |__Retail salespersons
+                            |   |       |       |__Sales representatives, services, all other
+                            |   |       |           |--Sales engineers
+                            |   |       |           |   |--Sales and related workers, all other
+                            |   |       |           |   |   |--Roofers
+                            |   |       |           |   |   |   |--Roof bolters, mining
+                            |   |       |           |   |   |   |   |--Riggers
+                            |   |       |           |   |   |   |   |   |__Rolling machine setters, operators, and tenders, metal and plastic
+                            |   |       |           |   |   |   |__Roustabouts, oil and gas
+                            |   |       |           |   |   |       |__Sailors and marine oilers
+                            |   |       |           |__Sales representatives, wholesale and manufacturing
+                            |   |       |               |__Sawing machine setters, operators, and tenders, wood
+                            |   |       |__Security guards and gaming surveillance officers
+                            |   |           |--Securities, commodities, and financial services sales agents
+                            |   |           |   |--Secretaries and administrative assistants
+                            |   |           |   |__Security and fire alarm systems installers
+                            |   |           |__Shipping, receiving, and traffic clerks
+                            |   |               |--Sheet metal workers
+                            |   |               |   |--Septic tank servicers and sewer pipe cleaners
+                            |   |               |   |   |--Semiconductor processors
+                            |   |               |   |   |__Sewing machine operators
+                            |   |               |   |       |--Service station attendants
+                            |   |               |   |__Ship and boat captains and operators
+                            |   |               |       |__Ship engineers
+                            |   |               |__Small engine mechanics
+                            |   |                   |--Signal and track switch repairers
+                            |   |                   |   |--Shoe and leather workers and repairers
+                            |   |                   |   |   |__Shoe machine operators and tenders
+                            |   |                   |   |       |__Shuttle car operators
+                            |   |__Tax examiners, collectors, and revenue agents
+                            |       |--Statisticians
+                            |       |   |--Sociologists
+                            |       |   |   |--Social workers
+                            |       |   |   |__Special education teachers
+                            |       |   |       |__Speech-language pathologists
+                            |       |   |           |__Statistical assistants
+                            |       |   |               |--Stationary engineers and boiler operators
+                            |       |   |__Surveyors, cartographers, and photogrammetrists
+                            |       |       |--Surveying and mapping technicians
+                            |       |       |   |--Supervisors, protective service workers, all other
+                            |       |       |   |   |--Stock clerks and order fillers
+                            |       |       |   |   |   |__Structural iron and steel workers
+                            |       |       |   |   |       |__Structural metal fabricators and fitters
+                            |       |       |   |   |           |__Subway, streetcar, and other rail transportation workers
+                            |       |       |   |   |__Supervisors, transportation and material moving workers
+                            |       |       |__Switchboard operators, including answering service
+                            |       |           |__Tailors, dressmakers, and sewers
+                            |       |               |__Tank car, truck, and ship loaders
+                            |       |__Tax preparers
+                            |           |__Teacher assistants
+                            |               |--Taxi drivers and chauffeurs
+                            |               |__Technical writers
+                            |                   |__Television, video, and motion picture camera operators and editors
+                            |                       |--Telemarketers
+                            |                       |   |--Telecommunications line installers and repairers
+                            |                       |   |__Telephone operators
+                            |                       |__Therapists, all other
+                            |                           |--Tellers
+                            |                           |   |__Textile bleaching and dyeing machine operators and tenders
+                            |                           |       |__Textile cutting machine setters, operators, and tenders
+                            |                           |           |__Textile knitting and weaving machine setters, operators, and tenders
+                            |                           |               |__Textile winding, twisting, and drawing out machine setters, operators, and tenders
+                            |                           |                   |__Textile, apparel, and furnishings workers, all other
+                            |                           |__Transit and railroad police
+                            |                               |--Tour and travel guides
+                            |                               |   |--Tool and die makers
+                            |                               |   |   |--Tire builders
+                            |                               |   |   |__Tool grinders, filers, and sharpeners
+                            |                               |__Transportation attendants
+                            |                                   |__Transportation inspectors
+                            |__Wholesale and retail buyers, except farm products
+                                |--Urban and regional planners
+                                |   |--Travel agents
+                                |   |   |__Upholsterers
+                                |   |__Veterinarians
+                                |       |--Ushers, lobby attendants, and ticket takers
+                                |       |__Waiters and waitresses
+                                |           |__Weighers, measurers, checkers, and samplers, recordkeeping
+                                |               |--Water and liquid waste treatment plant and system operators
+                                |               |__Welding, soldering, and brazing workers
+                                |__Writers and authors
+                                    |--Word processors and typists
+                                    |   |--Woodworking machine setters, operators, and tenders, except sawing
+                                    |   |   |--Woodworkers, all other
+Query: find ratio 1960 1969
+
+The female-to-male earnings ratio for 1960-1969:
+	1960: 60.6%
+	1961: 59.2%
+	1962: 59.2%
+	1963: 58.9%
+	1964: 59.1%
+	1965: 59.9%
+	1966: 57.5%
+	1967: 57.7%
+	1968: 58.1%
+	1969: 60.4%
+Query: find max total 100
+
+Top 100 occupations in 1999 for total workers:
+	Secretaries and administrative assistants: 2,409,830
+	First-line supervisors/managers of retail sales workers: 2,167,180
+	Elementary and middle school teachers: 2,143,750
+	Driver/sales workers and truck drivers: 2,130,980
+	Managers, all other: 1,607,220
+	Retail salespersons: 1,536,280
+	Registered nurses: 1,384,630
+	First-line supervisors/managers of office and administrative support workers: 1,335,860
+	Accountants and auditors: 1,327,040
+	Customer service representatives: 1,248,770
+	Sales representatives, wholesale and manufacturing: 1,109,620
+	First-line supervisors/managers of production and operating workers: 1,094,900
+	Bookkeeping, accounting, and auditing clerks: 1,080,270
+	Janitors and building cleaners: 983,990
+	Chief executives: 965,440
+	Laborers and freight, stock, and material movers, hand: 952,880
+	Production workers, all other: 889,550
+	Marketing and sales managers: 861,770
+	Nursing, psychiatric, and home health aides: 853,210
+	Carpenters: 803,840
+	Financial managers: 801,160
+	Miscellaneous assemblers and fabricators: 795,820
+	General and operations managers: 790,670
+	Cashiers: 770,520
+	First-line supervisors/managers of non-retail sales workers: 768,420
+	Automotive service technicians and mechanics: 738,290
+	Office clerks, general: 736,160
+	First-line supervisors/managers of construction trades and extraction workers: 720,740
+	Lawyers: 702,480
+	Human resources, training, and labor relations specialists: 660,750
+	Cooks: 646,890
+	Inspectors, testers, sorters, samplers, and weighers: 637,750
+	Stock clerks and order fillers: 605,170
+	Computer software engineers: 580,590
+	Construction laborers: 578,650
+	Secondary school teachers: 563,090
+	Computer scientists and systems analysts: 537,310
+	Postsecondary teachers: 534,100
+	Electricians: 533,790
+	Police and sheriff's patrol officers: 519,840
+	Physicians and surgeons: 515,500
+	Construction managers: 514,560
+	Computer programmers: 505,590
+	Food service managers: 486,600
+	Receptionists and information clerks: 476,580
+	Education administrators: 473,910
+	Child care workers: 464,100
+	Designers: 459,070
+	Social workers: 455,920
+	Waiters and waitresses: 442,390
+	Welding, soldering, and brazing workers: 441,080
+	Shipping, receiving, and traffic clerks: 439,060
+	Grounds maintenance workers: 437,270
+	Maids and housekeeping cleaners: 437,190
+	Sales representatives, services, all other: 433,010
+	Metalworkers and plastic workers, all other: 430,940
+	Security guards and gaming surveillance officers: 420,650
+	Real estate brokers and sales agents: 418,850
+	Industrial and refractory machinery mechanics: 396,870
+	Machinists: 396,110
+	Insurance sales agents: 385,520
+	Management analysts: 383,920
+	Pipelayers, plumbers, pipefitters, and steamfitters: 380,780
+	Farmers and ranchers: 362,670
+	Human resources managers: 358,390
+	Licensed practical and licensed vocational nurses: 353,090
+	Engineering technicians, except drafters: 352,690
+	Industrial truck and tractor operators: 350,490
+	Office and administrative support workers, all other: 339,300
+	First-line supervisors/managers of mechanics, installers, and repairers: 329,430
+	Medical and health services managers: 329,140
+	Data entry keyers: 325,930
+	Maintenance and repair workers, general: 324,050
+	Bailiffs, correctional officers, and jailers: 312,730
+	Counselors: 309,310
+	First-line supervisors/managers of food preparation and serving workers: 308,910
+	Medical assistants and other healthcare support occupations: 307,590
+	Hairdressers, hairstylists, and cosmetologists: 305,440
+	Property, real estate, and community association managers: 300,490
+	Computer support specialists: 294,340
+	Securities, commodities, and financial services sales agents: 290,550
+	Clergy: 285,580
+	Miscellaneous agricultural workers: 283,100
+	Postal service mail carriers: 282,690
+	Computer and information systems managers: 281,520
+	Painters, construction and maintenance: 269,460
+	Industrial production managers: 269,260
+	Electrical and electronics engineers: 266,820
+	Engineers, all other: 262,630
+	Billing and posting clerks and machine operators: 262,290
+	Loan counselors and officers: 259,750
+	Production, planning, and expediting clerks: 258,500
+	Sewing machine operators: 250,690
+	Bus and truck mechanics and diesel engine specialists: 244,690
+	Claims adjusters, appraisers, examiners, and investigators: 240,760
+	Mechanical engineers: 236,200
+	Network systems and data communications analysts: 232,940
+	Heating, air conditioning, and refrigeration mechanics and installers: 232,880
+	Civil engineers: 229,980
+	Preschool and kindergarten teachers: 224,730
+Query: find max men 10
+
+Top 10 occupations in 1999 for male workers:
+	Driver/sales workers and truck drivers: 2,041,390
+	First-line supervisors/managers of retail sales workers: 1,345,510
+	Managers, all other: 1,086,050
+	Retail salespersons: 933,840
+	First-line supervisors/managers of production and operating workers: 883,320
+	Sales representatives, wholesale and manufacturing: 861,120
+	Chief executives: 797,790
+	Carpenters: 791,770
+	Laborers and freight, stock, and material movers, hand: 791,050
+	Janitors and building cleaners: 767,090
+Query: find max women 10
+
+Top 10 occupations in 1999 for female workers:
+	Secretaries and administrative assistants: 2,330,670
+	Elementary and middle school teachers: 1,651,840
+	Registered nurses: 1,254,900
+	Bookkeeping, accounting, and auditing clerks: 964,160
+	First-line supervisors/managers of office and administrative support workers: 882,160
+	Customer service representatives: 865,190
+	First-line supervisors/managers of retail sales workers: 821,670
+	Nursing, psychiatric, and home health aides: 730,750
+	Accountants and auditors: 715,960
+	Office clerks, general: 625,950
+
+Query: find ratio 1970 1979
+
+The female-to-male earnings ratio for 1970-1979:
+	1970: 59.3%
+	1971: 59.5%
+	1972: 57.8%
+	1973: 56.6%
+	1974: 58.7%
+	1975: 58.8%
+	1976: 60.1%
+	1977: 58.9%
+	1978: 59.4%
+	1979: 59.6%
+Query: find max men 1
+
+Top 1 occupations in 1999 for male workers:
+	Driver/sales workers and truck drivers: 2,041,390
+
+Query: find ratio 1980 1989
+
+The female-to-male earnings ratio for 1980-1989:
+	1980: 60.1%
+	1981: 59.2%
+	1982: 61.7%
+	1983: 63.5%
+	1984: 63.6%
+	1985: 64.5%
+	1986: 64.2%
+	1987: 65.1%
+	1988: 66.0%
+	1989: 68.6%
+Query: find max women 1
+
+Top 1 occupations in 1999 for female workers:
+	Secretaries and administrative assistants: 2,330,670
+
+Query: find ratio 1990 1999
+
+The female-to-male earnings ratio for 1990-1999:
+	1990: 71.6%
+	1991: 69.8%
+	1992: 70.7%
+	1993: 71.5%
+	1994: 71.9%
+	1995: 71.4%
+	1996: 73.7%
+	1997: 74.1%
+	1998: 73.1%
+	1999: 72.3%
+
+Query: find ratio 1960 1999
+
+The female-to-male earnings ratio for 1960-1999:
+	1960: 60.6%
+	1961: 59.2%
+	1962: 59.2%
+	1963: 58.9%
+	1964: 59.1%
+	1965: 59.9%
+	1966: 57.5%
+	1967: 57.7%
+	1968: 58.1%
+	1969: 60.4%
+	1970: 59.3%
+	1971: 59.5%
+	1972: 57.8%
+	1973: 56.6%
+	1974: 58.7%
+	1975: 58.8%
+	1976: 60.1%
+	1977: 58.9%
+	1978: 59.4%
+	1979: 59.6%
+	1980: 60.1%
+	1981: 59.2%
+	1982: 61.7%
+	1983: 63.5%
+	1984: 63.6%
+	1985: 64.5%
+	1986: 64.2%
+	1987: 65.1%
+	1988: 66.0%
+	1989: 68.6%
+	1990: 71.6%
+	1991: 69.8%
+	1992: 70.7%
+	1993: 71.5%
+	1994: 71.9%
+	1995: 71.4%
+	1996: 73.7%
+	1997: 74.1%
+	1998: 73.1%
+	1999: 72.3%
+Query: range occupation "Ca" "Da"
+
+The occupations in the range "Ca" to "Da":
+hi

@@ -3,7 +3,10 @@ using namespace std;
 #include <iostream>
 #include <fstream>
 #include <string>  
-#include "defns.h" 
+#ifndef DEFNS
+#define DEFNS
+#include "defns.h"
+#endif
 
 class maxHeap
 {
